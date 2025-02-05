@@ -5,6 +5,8 @@
 
 
 dashboard platform demo (pseudo data)
+<img width="1270" alt="image" src="https://github.com/user-attachments/assets/52deafa3-5a17-495f-8afe-f8e09bd215bb" />
+
 
 <img width="1270" alt="image" src="https://github.com/user-attachments/assets/eb8e907a-c358-4d32-b142-51d3d01bd820" />
 
