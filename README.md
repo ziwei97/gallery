@@ -5,10 +5,14 @@
 
 
 dashboard platform demo (pseudo data)
-<img width="1270" alt="image" src="https://github.com/user-attachments/assets/52deafa3-5a17-495f-8afe-f8e09bd215bb" />
+
+![image](https://github.com/user-attachments/assets/06a07ef8-e670-41f1-918b-93dbdf071988)
 
 
-<img width="1270" alt="image" src="https://github.com/user-attachments/assets/eb8e907a-c358-4d32-b142-51d3d01bd820" />
+![image](https://github.com/user-attachments/assets/94549e60-eeea-43a7-af12-b87d71911d40)
 
 
+
+
+![image](https://github.com/user-attachments/assets/923fd6bc-ee9e-444a-8753-79fe8b1974eb)
 
